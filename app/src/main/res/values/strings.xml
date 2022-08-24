@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">HaVagas</string>
+    <string name="titulo">Formulário de cadastro</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="email">Digite seu email</string>
+    <string name="oportunidades">Desejo receber atualizações e oportunidades.</string>
+    <string name="telefone">Insira seu telefone</string>
+    <string name="adicionar_celular">Adicionar celular.</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="data">Insira sua data de nascimento</string>
+    <string name="celular">Insira seu celular</string>
+    <string name="ano">Insira o ano de formatura</string>
+    <string name="instituicao">Insira o nome da instituição</string>
+    <string name="monografia">Insira o nome da monografia</string>
+    <string name="orientador">Insira o nome do orientador</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="vaga">Insira a vaga desejada</string>
+    <string name="labelNome">Nome</string>
+    <string name="labelEmail">Email</string>
+    <string name="labelTelefone">Telefone e Celular</string>
+    <string name="labelSexo">Sexo</string>
+    <string name="labelData">Data de Nascimento</string>
+    <string name="labelFormacao">Formação</string>
+    <string name="labelVaga">Vaga</string>
+    <string-array name="tipoTelefone">
+        <item>Comercial</item>
+        <item>Residencial</item>
+    </string-array>
+    <string-array name="formacao">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+</resources>
